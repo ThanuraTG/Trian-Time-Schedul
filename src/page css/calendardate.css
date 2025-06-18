@@ -1,0 +1,10 @@
+.calenderbox{
+    width: 350px;
+    height: 100%;
+    border-radius: 0px;
+    border-style: outset;
+    border-color: rgb(240, 0, 0);
+}
+Calendar {
+    border-radius: 15px;
+}
